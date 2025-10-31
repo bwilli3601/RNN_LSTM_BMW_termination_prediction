@@ -1,10 +1,6 @@
-# Demo
+# READDME
 
-Some description!
-
-## Subheader
-
-Watch tutorial on YouTube.
+Some data files are missing due to their size. I can make them available by request. 
 
 ## Local Development
 
